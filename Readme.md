@@ -23,6 +23,12 @@ Predicts the winner of a tennis match based on:
 ## 👀 Preview
 <img src="Screenshots/dashboard_preview.jpg" width="600">
 
+## 📊 Power BI Dashboard
+Visualizes tennis match predictions based on player ranking and surface performance.  
+📁 File: `Tennis_Match_Dashboard.pbix`
+
+<img src="Screenshots/Power BI dashboard.png" width="600">
+
 ## Download here:
 https://github.com/rotemravid16/tennis-match-predictor-excel/blob/main/Tennis_Predictor.xlsx
 
