@@ -27,4 +27,5 @@ Predicts the winner of a tennis match based on:
 Rotem Ravid  
 Aspiring Data Analyst & Sports Data Enthusiast
 
-![Dashboard](screenshots/dashboard_preview.png)
+[![Dashboard](screenshots/dashboard_preview.png)
+](https://github.com/rotemravid16/tennis-match-predictor-excel/blob/main/Screenshots/dashboard_preview.jpg)
