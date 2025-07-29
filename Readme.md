@@ -21,10 +21,10 @@ Predicts the winner of a tennis match based on:
 - Real ATP match data (up to 2023)
 
 ## 👀 Preview
-(Insert screenshots here)
+<img src="Screenshots/dashboard_preview.jpg" width="600">
+
 
 ## 🧑‍💻 Author
 Rotem Ravid  
 Aspiring Data Analyst & Sports Data Enthusiast
 
-<img src="screenshots/dashboard_preview.jpg" width="600">
