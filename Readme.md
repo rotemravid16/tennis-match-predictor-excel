@@ -24,6 +24,9 @@ Predicts the winner of a tennis match based on:
 <img src="Screenshots/dashboard_preview.jpg" width="600">
 
 ## Download here:
+https://github.com/rotemravid16/tennis-match-predictor-excel/blob/main/Tennis_Predictor.xlsx
+
+## How to download?
 <img src="Screenshots/Download%20here.png" width="600">
 
 ## 🧑‍💻 Author
