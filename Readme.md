@@ -26,3 +26,5 @@ Predicts the winner of a tennis match based on:
 ## 🧑‍💻 Author
 Rotem Ravid  
 Aspiring Data Analyst & Sports Data Enthusiast
+
+![Dashboard](screenshots/dashboard_preview.png)
