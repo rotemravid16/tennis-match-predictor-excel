@@ -23,6 +23,8 @@ Predicts the winner of a tennis match based on:
 ## 👀 Preview
 <img src="Screenshots/dashboard_preview.jpg" width="600">
 
+## Download here:
+<img src="Screenshots/Download%20here.png" width="600">
 
 ## 🧑‍💻 Author
 Rotem Ravid  
