@@ -25,7 +25,7 @@ Predicts the winner of a tennis match based on:
 
 ## 📊 Power BI Dashboard
 Visualizes tennis match predictions based on player ranking and surface performance.  
-📁 File: `Tennis_Match_Dashboard.pbix`
+📁 File: `Added Power BI dashboard.pbix`
 
 <img src="Screenshots/Power BI dashboard.png" width="600">
 
