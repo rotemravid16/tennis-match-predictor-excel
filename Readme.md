@@ -21,7 +21,8 @@ Predicts the winner of a tennis match based on:
 - Real ATP match data (up to 2023)
 
 ## 👀 Preview
-<img src="Screenshots/dashboard_preview.jpg" width="600">
+<img src="Screenshots/ezgif.com-animated-gif-maker.gif" width="600">
+
 
 ## 📊 Power BI Dashboard
 Visualizes tennis match predictions based on player ranking and surface performance.  
@@ -38,4 +39,5 @@ https://github.com/rotemravid16/tennis-match-predictor-excel/blob/main/Tennis_Pr
 ## 🧑‍💻 Author
 Rotem Ravid  
 Aspiring Data Analyst & Sports Data Enthusiast
+
 
